@@ -1,0 +1,189 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "杜老师说",
+      "url": "https://dusays.com",
+      "description": "师者，传道，授业，解惑！",
+      "icon": "https://cdn.dusays.com/avatar.png",
+      "snapshot": "https://bu.dusays.com/2020/11/13/0eccf1ca0dc4b.jpg",
+      "feed": "https://dusays.com/atom.xml",
+      "posts": [
+        {
+          "title": "LibreTV 免费的在线视频观看神器",
+          "link": "https://dusays.com/821/",
+          "published": "2025-08-10 16:00"
+        },
+        {
+          "title": "Electerm 高效便捷的开源终端工具",
+          "link": "https://dusays.com/820/",
+          "published": "2025-08-04 16:00"
+        },
+        {
+          "title": "Wave Terminal 多功能开源终端工具",
+          "link": "https://dusays.com/819/",
+          "published": "2025-07-29 16:00"
+        }
+      ],
+      "issue_number": 3,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        },
+        {
+          "name": "近期活跃",
+          "color": "0e8a16",
+          "hue": 124,
+          "saturation": 82,
+          "lightness": 30
+        }
+      ]
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "description": "For all time, always.",
+      "icon": "https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/avatar/classic.webp",
+      "snapshot": "https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/snapshot/2025.webp",
+      "feed": "https://xaoxuu.com/atom.xml",
+      "posts": [
+        {
+          "title": "关于本站备用站点的紧急通知",
+          "link": "https://xaoxuu.com/blog/20250713/",
+          "published": "2025-07-13 12:36"
+        },
+        {
+          "title": "适合静态博客的 Nginx 安全性配置",
+          "link": "https://xaoxuu.com/blog/20250706/",
+          "published": "2025-07-06 13:36"
+        },
+        {
+          "title": "利用 Webhook 实现博客自动部署到服务器并通过飞书通知",
+          "link": "https://xaoxuu.com/blog/20250705/",
+          "published": "2025-07-05 13:59"
+        }
+      ],
+      "issue_number": 1,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        }
+      ]
+    },
+    {
+      "title": "Colsrch",
+      "url": "https://colsrch.cn",
+      "description": "愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经。",
+      "icon": "https://bu.dusays.com/2022/02/23/cb173cbdcc7c6.png",
+      "snapshot": "https://bu.dusays.com/2020/09/05/893e98a441d5f.png",
+      "feed": "https://colsrch.cn/atom.xml",
+      "posts": [
+        {
+          "title": "配置 WSL 开发 Flet 应用",
+          "link": "https://colsrch.cn/posts/59012193/",
+          "published": "2023-09-06 06:01"
+        },
+        {
+          "title": "Volantis 如何在主页添加卡片",
+          "link": "https://colsrch.cn/posts/71314686/",
+          "published": "2022-12-30 08:14"
+        },
+        {
+          "title": "ping 每隔几秒出现一次延迟特别大的解决方法",
+          "link": "https://colsrch.cn/posts/3d50f4a2/",
+          "published": "2022-09-14 06:41"
+        }
+      ],
+      "issue_number": 5,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        }
+      ]
+    },
+    {
+      "title": "MHuiG",
+      "url": "https://blog.mhuig.top",
+      "description": "Be Yourself, Make a Difference.",
+      "icon": "https://bu.dusays.com/2022/10/23/63552e00b1e60.png",
+      "snapshot": "https://i.loli.net/2020/08/22/d24zpPlhLYWX6D1.png",
+      "feed": "https://blog.mhuig.top/atom.xml",
+      "posts": [
+        {
+          "title": "辛普森悖论 | 你还相信数据吗",
+          "link": "https://blog.mhuig.top/p/2f345bb/",
+          "published": "2022-09-22 08:14"
+        },
+        {
+          "title": "尝试在博客中添加简易文章推荐功能",
+          "link": "https://blog.mhuig.top/p/175a1706/",
+          "published": "2022-09-15 11:13"
+        }
+      ],
+      "issue_number": 2,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        },
+        {
+          "name": "近期活跃",
+          "color": "0e8a16",
+          "hue": 124,
+          "saturation": 82,
+          "lightness": 30
+        }
+      ]
+    },
+    {
+      "title": "枋柚梓",
+      "url": "https://inkss.cn",
+      "description": "喵喵喵？",
+      "icon": "https://bu.dusays.com/2022/02/23/7d4468f971fb0.png",
+      "snapshot": "https://i.loli.net/2020/08/21/Vzbu3i8fXs6Nh5Y.jpg",
+      "feed": "https://inkss.cn/atom.xml",
+      "posts": [
+        {
+          "title": "Git 管理私钥",
+          "link": "https://inkss.cn/post/d71b1012/",
+          "published": "2018-09-08 05:48"
+        },
+        {
+          "title": "Hexo 博客搭建",
+          "link": "https://inkss.cn/post/196d2ba7/",
+          "published": "2018-09-15 05:48"
+        },
+        {
+          "title": "Jrebel 反代激活",
+          "link": "https://inkss.cn/post/89be439/",
+          "published": "2018-09-08 05:48"
+        }
+      ],
+      "issue_number": 4,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        }
+      ]
+    }
+  ]
+}
