@@ -1,0 +1,194 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "MHuiG",
+      "url": "https://blog.mhuig.top",
+      "description": "Be Yourself, Make a Difference.",
+      "icon": "https://bu.dusays.com/2022/10/23/63552e00b1e60.png",
+      "snapshot": "https://i.loli.net/2020/08/22/d24zpPlhLYWX6D1.png",
+      "feed": "https://blog.mhuig.top/atom.xml",
+      "posts": [
+        {
+          "title": "炒饺子",
+          "link": "https://blog.mhuig.top/p/6edbaac7/",
+          "published": "2026-08-29 15:05"
+        },
+        {
+          "title": "OKR目标管理中的七成完成度现象及其博弈论分析",
+          "link": "https://blog.mhuig.top/p/b150f6f2/",
+          "published": "2026-08-16 09:50"
+        },
+        {
+          "title": "空白的答案",
+          "link": "https://blog.mhuig.top/p/cb3fc42/",
+          "published": "2026-05-05 11:51"
+        }
+      ],
+      "issue_number": 2,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        },
+        {
+          "name": "近期活跃",
+          "color": "0e8a16",
+          "hue": 124,
+          "saturation": 82,
+          "lightness": 30
+        }
+      ]
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "description": "For all time, always.",
+      "icon": "https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/avatar/classic.webp",
+      "snapshot": "https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/snapshot/2025.webp",
+      "feed": "https://xaoxuu.com/atom.xml",
+      "posts": [
+        {
+          "title": "Stellar 为什么没能进入 Hexo 主题头部",
+          "link": "https://xaoxuu.com/blog/20260815/",
+          "published": "2026-08-15 02:14"
+        },
+        {
+          "title": "梦境：无法定格的偶遇",
+          "link": "https://xaoxuu.com/blog/20260801/",
+          "published": "2026-08-01 15:24"
+        },
+        {
+          "title": "连续两个晚上做梦笑醒",
+          "link": "https://xaoxuu.com/blog/20260226/",
+          "published": "2026-02-26 20:00"
+        }
+      ],
+      "issue_number": 1,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        }
+      ]
+    },
+    {
+      "title": "杜老师说",
+      "url": "https://dusays.com",
+      "description": "师者，传道，授业，解惑！",
+      "icon": "https://cdn.dusays.com/avatar.png",
+      "snapshot": "https://bu.dusays.com/2020/11/13/0eccf1ca0dc4b.jpg",
+      "feed": "https://dusays.com/atom.xml",
+      "posts": [
+        {
+          "title": "图床服务故障修复公告",
+          "link": "https://dusays.com/archives/878/",
+          "published": "2026-07-19 00:00"
+        },
+        {
+          "title": "周末的 3 种过法",
+          "link": "https://dusays.com/archives/877/",
+          "published": "2026-07-13 00:00"
+        },
+        {
+          "title": "居家办公 5 个减少分心的动作",
+          "link": "https://dusays.com/archives/876/",
+          "published": "2026-07-07 00:00"
+        }
+      ],
+      "issue_number": 3,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        },
+        {
+          "name": "近期活跃",
+          "color": "0e8a16",
+          "hue": 124,
+          "saturation": 82,
+          "lightness": 30
+        }
+      ]
+    },
+    {
+      "title": "枋柚梓",
+      "url": "https://inkss.cn",
+      "description": "喵喵喵？",
+      "icon": "https://bu.dusays.com/2022/02/23/7d4468f971fb0.png",
+      "snapshot": "https://i.loli.net/2020/08/21/Vzbu3i8fXs6Nh5Y.jpg",
+      "feed": "https://inkss.cn/atom.xml",
+      "posts": [
+        {
+          "title": "基于爱快路由的 IPV6 网络防火墙设置",
+          "link": "https://inkss.cn/post/8fe38c87/",
+          "published": "2023-11-07 17:20"
+        },
+        {
+          "title": "宝塔面板部署 ModSecurity",
+          "link": "https://inkss.cn/post/f0451fab/",
+          "published": "2022-03-25 12:46"
+        },
+        {
+          "title": "从 1Password 迁移到 Bitwarden：一次涨价引发的“搬家”",
+          "link": "https://inkss.cn/post/5a013cf6/",
+          "published": "2026-05-08 11:55"
+        }
+      ],
+      "issue_number": 4,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        }
+      ]
+    },
+    {
+      "title": "Colsrch",
+      "url": "https://colsrch.cn",
+      "description": "愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经。",
+      "icon": "https://bu.dusays.com/2022/02/23/cb173cbdcc7c6.png",
+      "snapshot": "https://bu.dusays.com/2020/09/05/893e98a441d5f.png",
+      "feed": "https://colsrch.cn/atom.xml",
+      "posts": [
+        {
+          "title": "配置 WSL 开发 Flet 应用",
+          "link": "https://colsrch.cn/posts/59012193/",
+          "published": "2023-09-06 14:01"
+        },
+        {
+          "title": "Volantis 如何在主页添加卡片",
+          "link": "https://colsrch.cn/posts/71314686/",
+          "published": "2022-12-30 16:14"
+        },
+        {
+          "title": "ping 每隔几秒出现一次延迟特别大的解决方法",
+          "link": "https://colsrch.cn/posts/3d50f4a2/",
+          "published": "2022-09-14 14:41"
+        }
+      ],
+      "issue_number": 5,
+      "labels": [
+        {
+          "name": "开发者",
+          "color": "1d76db",
+          "hue": 212,
+          "saturation": 77,
+          "lightness": 49
+        }
+      ]
+    }
+  ]
+}
